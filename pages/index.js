@@ -9,17 +9,17 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Meer Bahadin | Home</title>
+        <title>Joshua Byrd / Home</title>
         <meta
           name="description"
-          content="Meer Bahadin | Full stack developer - UI / UX Designer"
+          content="Joshua Byrd - Software Developer, etc."
         />
         <meta property="og:type" content="website" />
         <meta name="robots" content="follow, index" />
-        <meta property="og:url" content="https://meera.dev/" />
+        <meta property="og:url" content="https://phocks.org/" />
         <meta
           property="og:title"
-          content="Meer Bahadin | Full stack developer - UI / UX Designer"
+          content="Joshua Byrd - Software Developer, etc."
         />
         <meta property="og:image" content="/meta-image.jpg" />
       </Head>
